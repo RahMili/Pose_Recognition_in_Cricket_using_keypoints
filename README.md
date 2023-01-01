@@ -1,4 +1,4 @@
-Official Repository for the ([paper](https://ieeexplore.ieee.org/document/9986481)) "Pose Recognition in Cricket using Keypoints", presented at IEEE UPCON 2022.
+Official Repository for the [paper](https://ieeexplore.ieee.org/document/9986481) "Pose Recognition in Cricket using Keypoints", presented at IEEE UPCON 2022.
 
 ## Description
 A method for pose recognition of umpire in the game of cricket. This can in future be used for generating cricket highlights leveraging the efficiency of pose estimation models and Artificial Neural Networks.

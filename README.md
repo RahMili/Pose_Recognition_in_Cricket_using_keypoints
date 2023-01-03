@@ -1,5 +1,4 @@
-Official Repository for the [paper](https://ieeexplore.ieee.org/document/9986481) "Pose Recognition in Cricket using Keypoints", presented at the IEEE UPCON 2022.
-
+Official Repository for the paper "Pose Recognition in Cricket using Keypoints", paper id: 218, presented at IEEE UPCON 2022.
 ## Description
 A method for pose recognition of umpire in the game of cricket. This can in future be used for generating cricket highlights leveraging the efficiency of pose estimation models and Artificial Neural Networks.
 
@@ -11,7 +10,7 @@ Our work can identify 4 actions (Six, No-ball, Out, Wide) and No action (any oth
 4. Get the training data into 'train' folder and testing data in 'test' folder.
 5. Create 'models' folder
 6. Download the pretrained model and put it inside 'models' folder.
-7. Pretrained model download link [here](https://drive.google.com/file/d/1XeiT111eXo0yjjkuKowBrgGlkhQcuoHw/view?usp=sharing)
+7. Pretrained model download link 'https://drive.google.com/file/d/1XeiT111eXo0yjjkuKowBrgGlkhQcuoHw/view?usp=sharing'
 ## Usage
 Set PYTHONPATH = '..../Pose-Recognition-in-Cricket-using-keypoints'
 
